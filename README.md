@@ -1,2 +1,3 @@
-# redes_neuronales_proyecto_final
-Proyecto final para Inteligencia Artificial y Aprendizaje Profundo (Teoría Matemática de Redes Neuronales)
+# Clasicifación del conjunto *MNIST* con red neuronal multicapa programada con *Numpy* y la paquetería estándar de Python.
+
+
